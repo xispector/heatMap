@@ -1,0 +1,17 @@
+main {
+  width: 100vw;
+  height: 100vh;
+  text-align: center;
+  padding: 20px;
+}
+
+#tooltip {
+  position: absolute;
+  color: white;
+  text-align: center;
+  padding: 9px 15px;
+  background-color: black;
+  border-radius: 10px;
+  box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.4);
+  opacity: 0;
+}
